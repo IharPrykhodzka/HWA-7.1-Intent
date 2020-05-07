@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WHA 7.1 Intents</string>
+    <string name="btnText">Синхронизировать</string>
+    <string name="text">Система синхронизации по времени суток</string>
+    <string name="eveningSynchronize">Вечерняя синхронизация !!!</string>
+    <string name="afternoonSynchronize">Дневная синхронизация !!!</string>
+    <string name="morningSynchronize">Утреняя синхронизация !!!</string>
+</resources>

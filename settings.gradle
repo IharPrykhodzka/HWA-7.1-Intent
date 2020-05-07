@@ -1,0 +1,2 @@
+rootProject.name='WHA 7.1 Intents'
+include ':app'
